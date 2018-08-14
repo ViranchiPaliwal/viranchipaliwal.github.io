@@ -905,6 +905,11 @@ footer {
     color: #c7c7c7;
 }
 
+.project a {
+    font-size: 20px;
+    color: #c0392b;
+}
+
 .contact ul li {
     margin-bottom: 10px;
 }
